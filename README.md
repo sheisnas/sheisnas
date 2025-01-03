@@ -31,7 +31,7 @@ welcome to my GitHub profile! here's a little about me:
 
 ## 🔗 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nastiti-suci-ridwani)  
-- [Personal Landing Page](nastiti-suci.carrd.co)  
+- [Personal Landing Page](https://nastiti-suci.carrd.co)  
 - [Email](mailto:nastitisuciridwani@gmail.com)
 
 ---
