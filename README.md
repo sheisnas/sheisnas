@@ -14,18 +14,11 @@ welcome to my GitHub profile! here's a little about me:
 
 ---
 
-## 🛠 Tools and Skills
+## 📊 Tools and Skills
 - **Data Analysis**: Power BI, SQL, VBA (Excel), Statistical Tools  
-- **Creative Tools**: Adobe family, Canva, Graphic Design  
+- **Creative Tools**: Adobe family, Canva 
 - **Marketing**: Market Research, Campaign Development, Consumer Behavior Analysis  
 - **Collaboration**: Project Management, Team Coordination  
-
----
-
-## 📊 Current Focus
-- Exploring advanced data visualization and business intelligence solutions.
-- Enhancing technical expertise in data analysis tools and methodologies.
-- Applying creative and analytical skills to meaningful projects.
 
 ---
 
